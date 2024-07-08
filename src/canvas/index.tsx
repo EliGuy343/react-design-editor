@@ -4,3 +4,4 @@ export { default as CanvasObject } from './CanvasObject';
 export * from './handlers';
 export * from './objects';
 export * from './utils';
+export * from '../editors/imagemap/index'
